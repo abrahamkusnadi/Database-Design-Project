@@ -73,4 +73,51 @@ In this project, we normalized unstructured invoice data (UNF) into **3NF** to e
 - Populated with 115 simulated invoices.  
 - Tested with multiple **JOIN queries** and aggregation.  
 
-📂 Repository Structure:
+
+---
+
+## 📊 Visualization
+Visualization was performed using **Google Colab**, including:  
+1. Total Sales by Product  
+2. Total Sales by Salesperson  
+3. Total Purchases by Customer  
+4. Quantity of Sales per Product  
+5. Frequency of Products Sold  
+
+
+- Example Visualization Number 5
+📷 ![Visualization](screenshots/Visu.png)  
+
+### Full Code 
+🔗 [Visualization Notebook (Google Colab)](https://colab.research.google.com/drive/1ueCsh1yNBIWdA37O8HCCYL88tajPyHcP?usp=sharing)  
+
+---
+
+## 📂 Project Files
+- [UNF Table (Google Sheets)](https://docs.google.com/spreadsheets/d/1y6b8YvqX-pf09uYNEfNtvaIxr4r2CXHEhoQMqR4YMvQ/edit?usp=sharing)  
+- [Normalization Steps (UNF → 3NF)](https://docs.google.com/spreadsheets/d/1iZwwOQzYXHCCAIhYfGytzvz0G6Tin1Sx8WA7hJf9RUE/edit?usp=sharing)  
+- [SQL Code](https://drive.google.com/file/d/1gjXop6rh2WQ6I0zFaQrZ3MEMYS_8WRs2/view?usp=sharing)  
+- [Presentation Slides](https://drive.google.com/drive/folders/1IKldgdJdJ3ygorauMubiAxNb3IO3UMZl?usp=sharing)  
+
+---
+
+## ✅ Results
+- A **well-structured, normalized database** free from redundancy.  
+- **Efficient queries** for transaction reports.  
+- **Visualization dashboards** showing key insights.  
+
+---
+
+## 📝 Future Improvements
+- Add **product variants** (size, color, categories).  
+- Implement **stock inventory management**.  
+- Expand **ID formatting** for scalability.  
+
+---
+
+## 🙏 Acknowledgment
+This project was completed as part of the **Database Technology course** at Binus University.  
+It showcases teamwork, SQL implementation, and database design principles.  
+
+---
+
