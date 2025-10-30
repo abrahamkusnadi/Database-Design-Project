@@ -21,10 +21,10 @@ The project applies **data normalization (UNF → 1NF → 2NF → 3NF)**, ERD mo
 ## 📌 Project Background
 Invoices are essential in sales transactions, but poorly structured data often causes duplication, inconsistencies, and inefficiency.  
 In this project, we normalized unstructured invoice data (UNF) into **3NF** to ensure:  
-- ✅ Reduced data duplication  
-- ✅ Improved data integrity  
-- ✅ Easier data management  
-- ✅ Better support for reporting & decision-making  
+- Reduced data duplication  
+- Improved data integrity  
+- Easier data management  
+- Better support for reporting & decision-making  
 
 ---
 
