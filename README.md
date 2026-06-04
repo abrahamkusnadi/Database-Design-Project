@@ -101,7 +101,7 @@ Visualization was performed using **Google Colab**, including:
 - [UNF Table (Google Sheets)](https://docs.google.com/spreadsheets/d/1y6b8YvqX-pf09uYNEfNtvaIxr4r2CXHEhoQMqR4YMvQ/edit?usp=sharing)  
 - [Normalization Steps (UNF → 3NF)](https://docs.google.com/spreadsheets/d/1iZwwOQzYXHCCAIhYfGytzvz0G6Tin1Sx8WA7hJf9RUE/edit?usp=sharing)  
 - [SQL Code](https://drive.google.com/file/d/1gjXop6rh2WQ6I0zFaQrZ3MEMYS_8WRs2/view?usp=sharing)  
-- [Presentation Slides](https://drive.google.com/drive/folders/1IKldgdJdJ3ygorauMubiAxNb3IO3UMZl?usp=sharing)  
+- [Presentation Slides](https://drive.google.com/file/d/1mSYGSnOjzgKH_J7xeZpNfK56MfIYWKXb/view?usp=sharing)  
 
 ---
 
