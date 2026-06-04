@@ -26,6 +26,11 @@ In this project, we normalized unstructured invoice data (UNF) into **3NF** to e
 - Easier data management  
 - Better support for reporting & decision-making  
 
+## 👨‍💻 My Contributions
+In this project, I focused primarily on the **Data Preparation & Database Modeling** phases:
+- **Data Collection & Scraping:** Collaborated in scraping and extracting the raw invoice data to construct the initial Unnormalized Form (UNF) dataset.
+- **Functional Dependencies & Anomaly Detection:** Mapped out the functional dependencies (including partial and transitive dependencies) between attributes. I audited the dataset to identify insertion, update, and deletion anomalies, laying the structural groundwork for the team to process the 1NF to 3NF normalization.
+
 ---
 
 ## 🎯 Objectives
@@ -58,8 +63,7 @@ In this project, we normalized unstructured invoice data (UNF) into **3NF** to e
 ### Physical Diagram
 ![Physical Diagram](screenshots/Physical.png)  
 
-**Entities:**  
-- Invoice  
+**Entities:** - Invoice  
 - Invoice_Date  
 - Sales  
 - Customers  
@@ -120,4 +124,3 @@ This project was completed as part of the **Database Technology course** at Binu
 It showcases teamwork, SQL implementation, and database design principles.  
 
 ---
-
